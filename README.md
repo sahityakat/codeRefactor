@@ -2,7 +2,7 @@
 This is Weekly Challenge 1 to refactor an existing code 
 
 ## Description
-The challenge is to refactor the code of a website improving the accessibility and search engine optimization
+Refactored code of a website to improve the accessibility and search engine optimization
 
 ## Languages Used
 HTML, CSS
@@ -37,7 +37,7 @@ THEN I find a concise, descriptive title
 
 ## Resources
 
-[HTML Semantic Elements](https://www.w3schools.com/html/html5_semantic_elements.asp)
-[HTML Alt Text Tags](https://www.w3schools.com/tags/att_img_alt.asp)
-[HTML Heading Tags](https://www.w3schools.com/html/html_headings.asp)
+1. [HTML Semantic Elements](https://www.w3schools.com/html/html5_semantic_elements.asp)
+2. [HTML Alt Text Tags](https://www.w3schools.com/tags/att_img_alt.asp)
+3. [HTML Heading Tags](https://www.w3schools.com/html/html_headings.asp)
 
