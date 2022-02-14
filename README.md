@@ -34,7 +34,7 @@ THEN I find a concise, descriptive title
 ## Image
 
 ![Screenshot of how the Website looks](webpage.jpg)
-![Screenshot of how the Website looks](/assets/images/brand-awareness.jpg)
+![Screenshot of how the Website looks](brand-awareness.jpg)
 
 ## Resources
 
