@@ -35,6 +35,10 @@ THEN I find a concise, descriptive title
 
 ![Screenshot of how the Website looks](/assets/images/Webpage.png)
 
+## Link to deployed application
+
+[Deployed Application URL](https://sahityakat.github.io/codeRefactor/)
+
 ## Resources
 
 1. [HTML Semantic Elements](https://www.w3schools.com/html/html5_semantic_elements.asp)
