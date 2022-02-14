@@ -33,7 +33,7 @@ THEN I find a concise, descriptive title
 
 ## Image
 
-![Screenshot of how the Website looks](webpage.png)
+![Screenshot of how the Website looks](Webpage.png)
 
 ## Resources
 
